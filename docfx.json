@@ -368,7 +368,7 @@
                     "media/**"
                 ],
                 "version": "azurermps-6.13.0"
-            }
+            },
             {
                 "files": [
                     "media/**"
